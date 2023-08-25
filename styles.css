@@ -1,2 +1,16 @@
 
 /* Your CSS Code here. */
+*{
+	margin:0px;
+	padding:0px;
+}
+.container{
+	background-color:#fff;
+	width:100px;
+	display:flex;
+	flex-direction:column;
+	}
+input{
+	justify-content:center;
+	
+}
